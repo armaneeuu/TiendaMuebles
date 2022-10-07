@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/wdio ./wdio.conf.js"
+    "test": "wdio ./wdio.conf.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
     "nodemon": "^2.0.20",
     "wdio": "^6.0.1"
   },
-  "description": "",
   "devDependencies": {
     "@wdio/cli": "^7.25.1",
     "@wdio/local-runner": "^7.25.1",
@@ -29,5 +28,7 @@
     "@wdio/spec-reporter": "^7.25.1",
     "chromedriver": "^106.0.1",
     "wdio-chromedriver-service": "^8.0.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
