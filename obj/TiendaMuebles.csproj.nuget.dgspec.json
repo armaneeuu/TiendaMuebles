@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj": {}
+    "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj": {
+    "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
+        "projectUniqueName": "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
         "projectName": "TiendaMuebles",
-        "projectPath": "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
+        "projectPath": "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
         "packagesPath": "C:\\Users\\Armando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\obj\\",
+        "outputPath": "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Armando\\AppData\\Roaming\\NuGet\\NuGet.Config"
