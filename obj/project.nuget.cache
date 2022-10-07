@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ByLykQkSAf+hC4NH5g1u2PrBbXE2W3uEYl48S+YLrQdINQSCmS+S+q47bZ6ksnp9L3AnX7CDdh9H/JLJfrcbBw==",
+  "dgSpecHash": "yzvhZRGVNz7zpFyffAYb2mk/J8gdZqHYXt3TjXRl64pfdVakbRPIKrkUhpS5OGcjeobe1K0QfEFe2tC/pChUfw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
+  "projectFilePath": "C:\\Users\\Armando\\Documents\\Proyecto muebles\\TiendaMuebles\\TiendaMuebles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Armando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Armando\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
