@@ -2,7 +2,9 @@
   "name": "tiendamuebles",
   "version": "1.0.0",
   "main": "index.js",
+  
   "scripts": {
+    "build":"next build",
     "test": "wdio ./wdio.conf.js"
   },
   "repository": {
